@@ -22,4 +22,3 @@ def print_report(incomes):
 
     main()
 
-    
